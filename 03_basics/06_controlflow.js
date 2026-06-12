@@ -1,4 +1,4 @@
-accessing objectinsidearrray
+//accessing objectinsidearrray
 
 const myCoding = [
     {
